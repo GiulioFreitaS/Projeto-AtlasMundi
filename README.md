@@ -1,4 +1,8 @@
-# 🌍 Países & Clima (PHP + REST Countries + Open-Meteo)
+
+
+https://github.com/user-attachments/assets/887f471f-cea9-4a03-84af-26ec91804663
+
+# 🌍 AtlasMundi (PHP + REST Countries + Open-Meteo)
 
 Aplicação web em **PHP** que consulta **duas APIs públicas**, recebe as respostas em **JSON**, processa os dados e os apresenta dinamicamente ao usuário.
 
@@ -40,8 +44,8 @@ Não exige chave de API.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-   cd SEU-REPOSITORIO
+   git clone https://github.com/GiulioFreitaS/Projeto-AtlasMundi
+   cd Projeto-AtlasMundi
    ```
 2. Inicie o servidor embutido do PHP:
    ```bash
@@ -49,7 +53,7 @@ Não exige chave de API.
    ```
 3. Acesse <http://localhost:8000> no navegador.
 
-> Também funciona no XAMPP/WAMP: copie a pasta para `htdocs` e acesse `http://localhost/NOME-DA-PASTA`.
+> Também funciona no XAMPP/WAMP: copie a pasta para `htdocs` e acesse `http://localhost/Projeto-AtlasMundi`.
 
 ## Estrutura
 
@@ -69,8 +73,8 @@ Não exige chave de API.
 
 ## Vídeo de demonstração
 
-🎥 [Link do YouTube](COLE-AQUI-O-LINK)
+🎥 [Link do YouTube](https://youtu.be/g1bPefRSrcs)
 
 ## Autor
 
-Seu nome — curso/turma
+Giulio Pimentel
