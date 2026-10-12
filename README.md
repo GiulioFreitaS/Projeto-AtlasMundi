@@ -77,4 +77,4 @@ Não exige chave de API.
 
 ## Autor
 
-Seu nome — curso/turma
+Giulio Pimentel
