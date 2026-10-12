@@ -1,4 +1,8 @@
-# 🌍 Países & Clima (PHP + REST Countries + Open-Meteo)
+
+
+https://github.com/user-attachments/assets/887f471f-cea9-4a03-84af-26ec91804663
+
+# 🌍 AtlasMundi (PHP + REST Countries + Open-Meteo)
 
 Aplicação web em **PHP** que consulta **duas APIs públicas**, recebe as respostas em **JSON**, processa os dados e os apresenta dinamicamente ao usuário.
 
